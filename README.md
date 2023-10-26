@@ -1,2 +1,2 @@
-# e-commerce
-Plataforma de e-commerce baseada em microsserviços
+# Frete
+Serviço para calcular o frete de entrega
