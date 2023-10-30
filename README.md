@@ -1,2 +1,1 @@
-# Frete
-Serviço para calcular o frete de entrega
+# API carrinho de compra
